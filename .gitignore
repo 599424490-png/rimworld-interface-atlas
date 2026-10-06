@@ -1,0 +1,10 @@
+local-index/
+*.dll
+*.exe
+*.zip
+*.save
+*.rws
+*.log
+*.il
+**/bin/
+**/obj/

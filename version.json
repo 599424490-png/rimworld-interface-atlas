@@ -1,0 +1,18 @@
+{
+  "assembly": "Assembly-CSharp",
+  "assemblyVersion": "1.6.9676.17735",
+  "mvid": "61e41735-6189-4da4-9d21-0260257b5097",
+  "assemblySha256": "5cf1b5be399d5b1c9c56ca72c9d35b4ecf307feacf5859d04ac5a1aa5926356a",
+  "signatureIndexSha256": "37a4fd6d0f40908c68d96d6c53a4fc3230541a1a3379db819db9a7e653a06d48",
+  "declaredRows": {
+    "type": 16158,
+    "method": 90840,
+    "field": 63106,
+    "property": 14245,
+    "event": 31
+  },
+  "evidence": "Existing local PE metadata index manifest; not a runtime test",
+  "gameDisplayVersion": null,
+  "dlcAndModScope": "pending source atlas",
+  "publishReady": true
+}
